@@ -1,0 +1,21 @@
+==> 2016-07-18 18:42:33 <==
+# cmd: C:\Users\u1037042\AppData\Local\Continuum\Anaconda2\Scripts\conda-script.py install django -p C:\Users\u1037042\Desktop\djangogirls
+django-1.9.5-py27_0
+pip-8.1.2-py27_0
+python-2.7.12-0
+setuptools-23.0.0-py27_0
+vs2008_runtime-9.00.30729.1-2
+wheel-0.29.0-py27_0
+# install specs: ['django', 'python 2.7*']
+==> 2016-07-18 18:46:00 <==
+# cmd: C:\Users\u1037042\AppData\Local\Continuum\Anaconda2\Scripts\conda-script.py uninstall django -p C:\Users\u1037042\Desktop\djangogirls
+-django-1.9.5-py27_0
+# remove specs: ['django', u'python 2.7* (target=python-2.7.12-0.tar.bz2)']
+==> 2016-07-18 18:54:46 <==
+# cmd: C:\Users\u1037042\AppData\Local\Continuum\Anaconda2\Scripts\conda-script.py install django -p C:\Users\u1037042\Desktop\djangogirls
++django-1.9.5-py27_0
+# install specs: ['django', u'python 2.7* (target=python-2.7.12-0.tar.bz2)']
+==> 2016-07-18 19:33:10 <==
+# cmd: C:\Users\u1037042\AppData\Local\Continuum\Anaconda2\Scripts\conda-script.py install git -p c:\Users\u1037042\Desktop\djangogirls
++git-2.6.4-0
+# install specs: ['git']
